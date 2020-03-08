@@ -1,4 +1,4 @@
-package com.example.masteragenda;
+package com.example.iteration1;
 
 import org.junit.Test;
 
