@@ -47,7 +47,8 @@
         android:layout_marginLeft="64dp"
         android:ems="10"
         android:inputType="text"
-        android:text="Enter Task/Item Name Here"
+        android:hint="Enter Task/Item Name Here"
+        android:textColorHint="#acacac"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/item_Name" />
 
